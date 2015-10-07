@@ -1,3 +1,4 @@
+#Author: Aaron Graubert  agraubert@wustl.edu
 import random
 import traceback
 from copy import copy

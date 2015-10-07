@@ -1,5 +1,8 @@
 # EquationBrackets
 Code used in the 2014 Equation Brackets game at Washington University in St. Louis.  Developed by Aaron Graubert, event organized by Robbie Shorr
+Author: Aaron Graubert  agraubert@wustl.edu
+
+If anyone's interested in full-blown documentation for the server and/or the client, I'd be happy to write that up, just email me at agraubert@wustl.edu
 
 The two python scripts make up the server portion.  bracketServer.py is the main executable script for the server.
 If you're actualy interested in running it, you will probably have to edit some of the ip addresses in the client version
